@@ -1,0 +1,236 @@
+[
+  {
+    "slug": "wilson-family-law",
+    "projectName": "Wilson Family Law",
+    "screenshot": "assets/screens/homepage-anthonywilsonlaw.jpg",
+    "caseStudyNumber": "02",
+    "caseType": "FAMILY LAW WEBSITE",
+    "caseIntro": "A reassuring professional-services website that helps people facing difficult family transitions understand their options and take a clear next step.",
+    "tags": [
+      "Web design",
+      "Content structure",
+      "Lead generation"
+    ],
+    "caseDetails": {
+      "challenge": "Present sensitive family-law services with enough authority to build trust while keeping the experience approachable for people arriving under stress.",
+      "approach": "Lead with a direct promise of answers, organize the firm's values into clear pillars, introduce the attorney personally, and place appointment and contact paths throughout the page.",
+      "result": "A calm, credible website that explains the firm's perspective, humanizes the practice, and makes it easy for prospective clients to begin a conversation."
+    }
+  },
+  {
+    "slug": "aql-northwest",
+    "projectName": "American Quality Landscaping",
+    "screenshot": "assets/screens/homepage-aqlnorthwest.jpg",
+    "caseStudyNumber": "03",
+    "caseType": "LANDSCAPING SERVICE WEBSITE",
+    "caseIntro": "A locally focused landscaping website built to communicate construction expertise, service quality, and a straightforward path to requesting a quote.",
+    "tags": [
+      "Service marketing",
+      "Local lead generation",
+      "Content hierarchy"
+    ],
+    "caseDetails": {
+      "challenge": "Differentiate a full-service landscaping company in a crowded local market while giving property owners enough proof to feel confident making contact.",
+      "approach": "Combine a strong regional message with project photography, an explicit commitment to quality, customer testimonials, and repeated phone and inquiry calls to action.",
+      "result": "A focused service website that connects local expertise with visible workmanship and guides prospective customers toward a consultation."
+    }
+  },
+  {
+    "slug": "coeur-insurance-group",
+    "projectName": "Coeur Insurance Group",
+    "screenshot": "assets/screens/homepage-coeurinsurancegroup.jpg",
+    "caseStudyNumber": "04",
+    "caseType": "INSURANCE AGENCY WEBSITE",
+    "caseIntro": "A concise insurance website that organizes personal, commercial, group, and consulting services around accessibility and local relationships.",
+    "tags": [
+      "Web design",
+      "Service architecture",
+      "Quote generation"
+    ],
+    "caseDetails": {
+      "challenge": "Explain several insurance categories without making the experience feel dense, impersonal, or difficult to navigate.",
+      "approach": "Use a short service overview, a prominent quote path, a team-focused introduction, and location-specific contact options to make assistance feel immediate.",
+      "result": "A streamlined agency presence that clarifies available coverage and puts a recognizable local team behind every inquiry."
+    }
+  },
+  {
+    "slug": "dishhy",
+    "projectName": "Dishhy",
+    "screenshot": "assets/screens/homepage-dishhy.jpg",
+    "caseStudyNumber": "05",
+    "caseType": "PRODUCT DESIGN & PROTOTYPE",
+    "caseIntro": "A recipe-sharing product concept that treats recipes as evolving work, making revisions, forks, and community improvements visible and understandable.",
+    "tags": [
+      "Product design",
+      "Interaction design",
+      "Application architecture"
+    ],
+    "caseDetails": {
+      "challenge": "Translate software versioning concepts into a cooking experience that feels useful and familiar rather than technical or intimidating.",
+      "approach": "Center the recipe and its photography, then reveal revision history through plain-language comparisons, before-and-after changes, forks, and lightweight community signals.",
+      "result": "A clear product direction that demonstrates how cooks could adapt recipes while preserving their origin, history, and most useful improvements."
+    }
+  },
+  {
+    "slug": "dependable-machine",
+    "projectName": "Dependable Machine",
+    "screenshot": "assets/screens/homepage-dmi-cnc.jpg",
+    "caseStudyNumber": "06",
+    "caseType": "INDUSTRIAL SALES & SUPPORT WEBSITE",
+    "caseIntro": "A technical sales and support website that balances equipment, service capabilities, manufacturer credibility, and urgent customer needs.",
+    "tags": [
+      "UX structure",
+      "Technical content",
+      "Quote pathways"
+    ],
+    "caseDetails": {
+      "challenge": "Make a broad industrial offering legible to buyers who may arrive with an immediate equipment, repair, or maintenance requirement.",
+      "approach": "Organize the page around product proof, manufacturer relationships, nationwide coverage, support capabilities, financing, and clear service and quote paths.",
+      "result": "A practical information system that supports both considered equipment purchases and time-sensitive service requests."
+    }
+  },
+  {
+    "slug": "juliete-skin",
+    "projectName": "Juliete Skin",
+    "screenshot": "assets/screens/homepage-julieteskin.jpg",
+    "caseStudyNumber": "07",
+    "caseType": "SKINCARE ECOMMERCE WEBSITE",
+    "caseIntro": "An education-led skincare storefront connecting products to ingredients, routines, expected results, and the founder behind the brand.",
+    "tags": [
+      "Ecommerce",
+      "Editorial design",
+      "Product education"
+    ],
+    "caseDetails": {
+      "challenge": "Communicate efficacy and a natural formulation philosophy without losing the clarity of a product-first shopping experience.",
+      "approach": "Alternate product discovery with concise education, ingredient stories, routine guidance, testimonials, and a personal founder introduction.",
+      "result": "A considered storefront that builds confidence in the brand before asking customers to choose a product or skincare routine."
+    }
+  },
+  {
+    "slug": "blackbird-digital-knowledgebase",
+    "projectName": "Blackbird Digital Knowledgebase",
+    "screenshot": "assets/screens/homepage-knowledgebase.jpg",
+    "caseStudyNumber": "08",
+    "caseType": "KNOWLEDGEBASE & SUPPORT SYSTEM",
+    "caseIntro": "A searchable client knowledgebase that brings project guidance, technical tutorials, marketing education, and common terminology into one support destination.",
+    "tags": [
+      "Information architecture",
+      "Support content",
+      "Knowledge management"
+    ],
+    "caseDetails": {
+      "challenge": "Make a growing library of technical and marketing information easy for clients to scan, understand, and revisit without direct assistance.",
+      "approach": "Use persistent category navigation, prominent search, plain-language summaries, and visually distinct content groups to reduce the effort required to find the right guide.",
+      "result": "A self-service support hub that creates a predictable starting point for common project, website, hosting, and marketing questions."
+    }
+  },
+  {
+    "slug": "property-management-kootenai-county",
+    "projectName": "Property Management of Kootenai County",
+    "screenshot": "assets/screens/homepage-pmokc.jpg",
+    "caseStudyNumber": "09",
+    "caseType": "PROPERTY MANAGEMENT WEBSITE",
+    "caseIntro": "A dual-audience property management website that gives owners and tenants distinct paths while presenting the company as an experienced local partner.",
+    "tags": [
+      "Audience strategy",
+      "Service architecture",
+      "Local marketing"
+    ],
+    "caseDetails": {
+      "challenge": "Serve property owners and tenants with different priorities without fragmenting the brand or making essential resources difficult to locate.",
+      "approach": "Separate the two audiences immediately, then support both with a local overview, company mission, human-centered approach, and clearly grouped management, maintenance, and cleaning services.",
+      "result": "A structured local presence that helps each audience find relevant information quickly while reinforcing trust in the management team."
+    }
+  },
+  {
+    "slug": "profectus-business-consulting",
+    "projectName": "Profectus Business Consulting",
+    "screenshot": "assets/screens/homepage-profectusbusiness.jpg",
+    "caseStudyNumber": "10",
+    "caseType": "BUSINESS CONSULTING WEBSITE",
+    "caseIntro": "A personality-led consulting website that translates flexible advisory services into clear packages for tradespeople and small-business owners.",
+    "tags": [
+      "Positioning",
+      "Service packaging",
+      "Consultation funnel"
+    ],
+    "caseDetails": {
+      "challenge": "Explain a broad, adaptable consulting offer without making it feel vague, overly corporate, or disconnected from the daily pressures of running a small business.",
+      "approach": "Build the story around the founder's experience, use direct problem-focused language, compare service packages clearly, and repeat a low-friction consultation offer.",
+      "result": "A distinctive advisory website that makes the offer easier to compare and gives business owners a practical reason to start a conversation."
+    }
+  },
+  {
+    "slug": "summit-strategic-advisory",
+    "projectName": "Summit Strategic Advisory",
+    "screenshot": "assets/screens/homepage-summitstrategic.jpg",
+    "caseStudyNumber": "11",
+    "caseType": "M&A ADVISORY WEBSITE",
+    "caseIntro": "A clear, trust-led website for an M&A advisory firm helping established business owners navigate complex transitions.",
+    "tags": [
+      "Web design",
+      "Content structure",
+      "Professional services"
+    ],
+    "caseDetails": {
+      "challenge": "Explain a detailed advisory process, qualify prospective clients, and establish credibility around a high-stakes decision without overwhelming the owner.",
+      "approach": "Pair direct business criteria with a visible transaction process, sector expertise, relationship-led values, and personal introductions to the advisory team.",
+      "result": "A focused professional-services website that makes a complex engagement easier to understand and provides a confident path to begin the conversation."
+    }
+  },
+  {
+    "slug": "swift-serve-lighting",
+    "projectName": "Swift Serve Lighting",
+    "screenshot": "assets/screens/homepage-swiftservelighting.jpg",
+    "caseStudyNumber": "12",
+    "caseType": "HOME SERVICE LEAD-GENERATION WEBSITE",
+    "caseIntro": "An experience-driven lighting website that helps homeowners picture permanent and seasonal installations before requesting an estimate.",
+    "tags": [
+      "Lead generation",
+      "Service storytelling",
+      "Interactive product education"
+    ],
+    "caseDetails": {
+      "challenge": "Explain a relatively unfamiliar permanent-lighting service while demonstrating its visual possibilities and addressing the practical installation process.",
+      "approach": "Lead with completed homes, show seasonal use cases, provide an interactive lighting preview, reduce the process to three steps, and reinforce the offer with customer proof.",
+      "result": "A visually persuasive service website that turns product curiosity into a clear understanding of the experience and an invitation to request an estimate."
+    }
+  },
+  {
+    "slug": "robinson-financial-services",
+    "projectName": "Robinson Financial Services",
+    "screenshot": "assets/screens/homepage-taxrfs.jpg",
+    "caseStudyNumber": "13",
+    "caseType": "FINANCIAL SERVICES WEBSITE",
+    "caseIntro": "A broad financial-services website that organizes tax, bookkeeping, payroll, planning, notary, and educational offerings into an approachable client journey.",
+    "tags": [
+      "Service architecture",
+      "Financial content",
+      "Appointment generation"
+    ],
+    "caseDetails": {
+      "challenge": "Present a wide range of related financial services without obscuring the firm's central promise of accurate, personal, and dependable support.",
+      "approach": "Establish the value proposition first, give each service a concise explanation and next step, then reinforce the relationship through team imagery, reviews, and repeated scheduling paths.",
+      "result": "A comprehensive but navigable website that helps individuals and businesses identify the right service and move toward an appointment."
+    }
+  },
+  {
+    "slug": "the-village-bakery",
+    "projectName": "The Village Bakery",
+    "screenshot": "assets/screens/homepage-thevillagebakerycda.jpg",
+    "caseStudyNumber": "14",
+    "caseType": "LOCAL BAKERY WEBSITE",
+    "caseIntro": "A warm local bakery website that connects the menu, custom ordering, community mission, charitable work, and storefront information in one inviting story.",
+    "tags": [
+      "Local business",
+      "Brand storytelling",
+      "Order pathways"
+    ],
+    "caseDetails": {
+      "challenge": "Represent both the bakery's products and its community role while keeping menus, orders, catering, and location details easy to find.",
+      "approach": "Open with product photography, organize the menu by daypart, create direct order and catering paths, and weave the bakery's inclusive mission and local partnerships through the page.",
+      "result": "An expressive neighborhood-business website that supports practical customer needs while giving the bakery's people and purpose equal visibility."
+    }
+  }
+]
